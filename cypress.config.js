@@ -4,7 +4,7 @@
 module.exports = {
   video: false,
   e2e: {
-    setupNodeEvents(on, config) {},
+    setupNodeEvents() {},
     specPattern: './cypress/e2e/*.cy.{js,jsx,ts,tsx}',
   },
   component: {
