@@ -1,6 +1,3 @@
-//const { defineConfig } = require('cypress')
-
-
 module.exports = {
   video: false,
   e2e: {
